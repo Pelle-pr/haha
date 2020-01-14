@@ -1,2 +1,6 @@
 hej
 den er modtaget
+
+
+det er for at vise at git sagtens kan flette ændringer på hvis de ikke er 
+på det precis samme sted.
